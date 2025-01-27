@@ -1,4 +1,4 @@
-# Egg Timer App
+# Egg Timer App 🥚🍳
 
 A simple iOS app to help you cook the perfect eggs. Choose between soft, medium, or hard boiled eggs, and let the timer do the work. This app provides a progress bar that shows the remaining time, and plays an alarm sound when the timer is up.
 
