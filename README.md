@@ -20,9 +20,9 @@ A simple iOS app to help you cook the perfect eggs. Choose between soft, medium,
 ## Demo
 
 <p align="center">
-  <img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/EggTimer/1.png" alt="Xylophone Demo" width="300">
-  <img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/EggTimer/2.png" alt="Xylophone Demo" width="300">
-  <img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/EggTimer/3.png" alt="Xylophone Demo" width="300">
+  <img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/EggTimer/1.png" alt="Xylophone Demo" width="250">
+  <img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/EggTimer/2.png" alt="Xylophone Demo" width="250">
+  <img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/EggTimer/3.png" alt="Xylophone Demo" width="250">
 </p>
 
 ## Code Explanation
